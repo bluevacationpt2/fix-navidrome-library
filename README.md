@@ -3,7 +3,6 @@
 A command-line tool to scan, fix tags, and organize a messy music library.
 
 If you've ever had half your library show up as **Unknown Artist** due to files with inconsistent filenames and no embedded tags, this fixes that.
-
 ---
 
 ## Features
