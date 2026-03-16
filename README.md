@@ -1,23 +1,8 @@
 # fix-navidrome-library
 
-A command-line tool to scan, fix tags, and organize a messy music library — built for [Navidrome](https://www.navidrome.org/) but works with any music server or player.
+A command-line tool to scan, fix tags, and organize a messy music library.
 
-If you've ever had half your library show up as **Unknown Artist** because you downloaded SoundCloud rips, niche releases, or files with inconsistent filenames and no embedded tags — this fixes that.
-
-**Before:**
-```
-Unknown Artist / Unknown Album / track02.mp3
-leroy / Leroy 5 (Bootleg) / CHASE THIS FEELING.mp3    ← no title tag
-PilotRedSun / Achievement / pilotredsun - Achievement - 03 casino night.wav  ← dirty title
-Unknown Artist / Unknown Album / track02.mp3
-```
-
-**After:**
-```
-leroy / Leroy 5 (Bootleg) / 06 CHASE THIS FEELING.mp3
-PilotRedSun / Achievement / 03 casino night.wav
-HOME / Before the Night / Resonance.mp3
-```
+If you've ever had half your library show up as **Unknown Artist** due to files with inconsistent filenames and no embedded tags, this fixes that.
 
 ---
 
